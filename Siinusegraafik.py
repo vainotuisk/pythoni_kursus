@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 ##Siinuse graafik
 import pygame,sys
 from math import *
